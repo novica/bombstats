@@ -1,3 +1,6 @@
+Future work moved to https://github.com/skopjehacklab/bombstats
+This repo is not maintained.
+
 A simple page to track some simple stats about Macedonia's political bombshells
 
 TODO
